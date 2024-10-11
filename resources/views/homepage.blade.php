@@ -13,15 +13,7 @@
 
     {{-- <link rel="canonical" href="https://getbootstrap.com/docs/5.3/examples/carousel/"> --}}
 
-
-
-
-
-
-
-
-
-
+    {{-- Comment --}}
 
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@docsearch/css@3">
